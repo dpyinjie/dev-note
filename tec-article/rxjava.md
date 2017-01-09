@@ -1,11 +1,3 @@
-# Android 通用技术
-
-
-## 框架/架构
-* [Android干货框架集锦，搭建项目必不可少](http://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651434361&idx=1&sn=b19426a123dd9dd14b89f451a158a2a7&chksm=f1288402c65f0d14c838bb5913aaa7fb6cc128a509c4f2e92c76699a8c7863836d5d7b194c8c&mpshare=1&scene=1&srcid=1228WQF5SkS5NBGZqrbgibMf#rd)
-* [GitHub Android Libraries Top 100 简介](https://github.com/Freelander/Android_Data/blob/master/Android-Librarys-Top-100.md)
-
-
 ## RxJava 篇
 
 * [RxJava 项目地址](https://github.com/ReactiveX/RxJava)
