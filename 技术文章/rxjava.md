@@ -17,20 +17,4 @@
 * [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
 
-## Okhttp/Retrofit
 
-## 图片加载
-### Glide 篇
-* [Introduction to Glide, Image Loader Library for Android, recommended by Google](https://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)（[中文翻译](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)）
-
-
-
-## Gson
-* [Gson User Guide](https://github.com/google/gson/blob/master/UserGuide.md)
-* [你真的会用Gson吗?Gson使用指南（一）](http://www.jianshu.com/p/e740196225a4)
-* [你真的会用Gson吗?Gson使用指南（二）](http://www.jianshu.com/p/c88260adaf5e)
-* [你真的会用Gson吗?Gson使用指南（三）](http://www.jianshu.com/p/0e40a52c0063)
-* [你真的会用Gson吗?Gson使用指南（四）](http://www.jianshu.com/p/3108f1e44155)
-* [Gson全解析（上）-Gson基础](http://www.jianshu.com/p/fc5c9cdf3aab)
-* [Gson全解析（中）-TypeAdapter的使用](http://www.jianshu.com/p/8cc857583ff4)
-* [Gson全解析（下）-Gson性能分析](http://www.jianshu.com/p/17a68d4fffbe)
