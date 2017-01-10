@@ -7,3 +7,4 @@
 * [Gson全解析（上）-Gson基础](http://www.jianshu.com/p/fc5c9cdf3aab)
 * [Gson全解析（中）-TypeAdapter的使用](http://www.jianshu.com/p/8cc857583ff4)
 * [Gson全解析（下）-Gson性能分析](http://www.jianshu.com/p/17a68d4fffbe)
+* [Feature Studio Gson 系列教程](https://futurestud.io/tutorials/gson-getting-started-with-java-json-serialization-deserialization)
