@@ -4,6 +4,10 @@
 * [Android干货框架集锦，搭建项目必不可少](http://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651434361&idx=1&sn=b19426a123dd9dd14b89f451a158a2a7&chksm=f1288402c65f0d14c838bb5913aaa7fb6cc128a509c4f2e92c76699a8c7863836d5d7b194c8c&mpshare=1&scene=1&srcid=1228WQF5SkS5NBGZqrbgibMf#rd)
 * [GitHub Android Libraries Top 100 简介](https://github.com/Freelander/Android_Data/blob/master/Android-Librarys-Top-100.md)
 
+## UI 篇
+### 自定义 View
+* [ Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
+
 ## RxJava 篇
 
 * [RxJava 项目地址](https://github.com/ReactiveX/RxJava)
@@ -13,13 +17,25 @@
 * [ RxJava实战技巧大全](http://blog.csdn.net/dd864140130/article/details/52714272)
 * [探索专为 Android 而设计的 RxJava 2](https://realm.io/cn/news/gotocph-jake-wharton-exploring-rxjava2-android/)
 * [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
+* [RxJava系列-知乎专栏](https://zhuanlan.zhihu.com/p/20687178)
 
-## Okhttp&Retrofit 篇
-
+## 网络请求篇
+### okhttp
 * [okhttp 项目地址](https://github.com/square/okhttp)
-* [retrofit 项目地址](https://github.com/square/retrofit)
 * [ Android OkHttp完全解析 是时候来了解OkHttp了](http://blog.csdn.net/lmj623565791/article/details/47911083)
-* [Future Studio 之 retrofit2 系列教程](https://futurestud.io/tutorials/retrofit-2-basics-of-api-description): 包含了52篇文章,几乎涵盖所有的 Retrofit 知识点。
+* [如何更高效地使用 OkHttp](http://brucezz.itscoder.com/effective-okhttp)
+* [OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/)
+
+### Retrofit
+* [retrofit 项目地址](https://github.com/square/retrofit)
+* [深入浅出 Retrofit，这么牛逼的框架你们还不来看看？](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1117)
+* [Future Studio 之 retrofit2 系列教程](https://futurestud.io/tutorials/retrofit-2-basics-of-api-description)
+* [Retrofit 用法详解](http://duanyytop.github.io/2016/08/06/Retrofit%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/)
+* [Retrofit分析-漂亮的解耦套路](http://www.jianshu.com/p/45cb536be2f4)
+* [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
+
+### Volley
+* [ Android Volley 完全解析](http://blog.csdn.net/guolin_blog/article/details/17482095)(系列文章)
 
 ## Gson 篇
 * [Gson User Guide](https://github.com/google/gson/blob/master/UserGuide.md)
@@ -43,15 +59,23 @@
 
 ## 图片加载
 
-### Glide 篇
+### Glide
 * [glide 项目地址](https://github.com/bumptech/glide)
 * [Introduction to Glide, Image Loader Library for Android, recommended by Google](https://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)（[中文翻译](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)）
 * [Feature Studio Glide 系列教程](https://futurestud.io/tutorials/glide-getting-started)
 
+### Picasso
+* [Picasso 项目地址](https://github.com/square/picasso)
+* [Picasso 官方文档](http://square.github.io/picasso/)
+
+### Fresco
+* [Fresco 项目地址](https://github.com/facebook/fresco)
+* [Fresco 官方文档](https://www.fresco-cn.org/docs/index.html)
+
 ## Mac 高效开发篇
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
-* [Mac使用指南](http://www.jianshu.com/p/343a4ee97a19)
+* [Mac 使用指南](http://www.jianshu.com/p/343a4ee97a19)
 * [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac#%E5%8A%9F%E8%83%BD%E9%94%AE)
-* [用心整理的Mac上好用好玩的软件们，持续更新中](http://www.jianshu.com/p/b304515d225b)
+* [用心整理的 Mac 上好用好玩的软件们，持续更新中](http://www.jianshu.com/p/b304515d225b)
 
 
