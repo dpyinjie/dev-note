@@ -1,4 +1,4 @@
-**这个 Repo 只是对平时觉得好的技术文章或者工具资源做一个整理，方便以后查阅。如果以下违背了原作者的所有权，请联系我删除，谢谢！！**
+**这个仓库只是对平时觉得好的技术文章或者工具资源做一个整理，方便以后查阅。如果以下违背了原作者的所有权，请联系我删除，谢谢！！ 持续更新中...**
 
 ## 框架/架构篇
 * [Android干货框架集锦，搭建项目必不可少](http://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651434361&idx=1&sn=b19426a123dd9dd14b89f451a158a2a7&chksm=f1288402c65f0d14c838bb5913aaa7fb6cc128a509c4f2e92c76699a8c7863836d5d7b194c8c&mpshare=1&scene=1&srcid=1228WQF5SkS5NBGZqrbgibMf#rd)
@@ -6,7 +6,17 @@
 
 ## UI 篇
 ### 自定义 View
+* [可能是讲解Android事件分发最好的文章](http://www.jianshu.com/p/2be492c1df96)
 * [ Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
+
+### 开源库
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+
+### 控件
+* [RecyclerView 必知必会](http://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
+
+###  Data Binding
+* [棉花糖给 Android 带来的 Data Bindings（数据绑定库)](https://realm.io/cn/news/data-binding-android-boyar-mount/)
 
 ## RxJava 篇
 
@@ -18,6 +28,7 @@
 * [探索专为 Android 而设计的 RxJava 2](https://realm.io/cn/news/gotocph-jake-wharton-exploring-rxjava2-android/)
 * [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 * [RxJava系列-知乎专栏](https://zhuanlan.zhihu.com/p/20687178)
+* [给初学者的 RxJava2.0 教程(掘金系列教程)](https://gold.xitu.io/user/573dba2171cfe448aa97b7b0)
 
 ## 网络请求篇
 ### okhttp
@@ -49,15 +60,7 @@
 * [Feature Studio Gson 系列教程](https://futurestud.io/tutorials/gson-getting-started-with-java-json-serialization-deserialization)
 
 
-## 图片预处理篇
-* [TinyPng](https://tinypng.com/)([Mac 客户端](https://github.com/kyleduo/TinyPNG4Mac)): 图片压缩。
-* [智图](http://zhitu.isux.us/): 腾讯出品的图片压缩工具,有 Windows 和 Mac 客户端。
-* [GIF 在线制作](http://gifcreator.me/)
-* [阿里巴巴矢量图标库](http://www.iconfont.cn/)
-* [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/): 图标制作
-* [Android dev tools](http://www.androiddevtools.cn/): 很全的 Android 开发资源工具下载 
-
-## 图片加载
+## 图片加载篇
 
 ### Glide
 * [glide 项目地址](https://github.com/bumptech/glide)
@@ -72,10 +75,36 @@
 * [Fresco 项目地址](https://github.com/facebook/fresco)
 * [Fresco 官方文档](https://www.fresco-cn.org/docs/index.html)
 
-## Mac 高效开发篇
+## H5 篇
+* [好好和h5沟通！几种常见的hybrid通信方式](http://zjutkz.net/2016/04/17/%E5%A5%BD%E5%A5%BD%E5%92%8Ch5%E6%B2%9F%E9%80%9A%EF%BC%81%E5%87%A0%E7%A7%8D%E5%B8%B8%E8%A7%81%E7%9A%84hybrid%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F/)
+* [JsBridge实现JavaScript和Java的互相调用](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231789&idx=1&sn=f11650ad0e18ddc12ece6e7559d5084c&scene=1&srcid=0513BWa7HuHjzPAeManB3w6C#rd)
+* [解耦---Hybrid H5跨平台性思考](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1275)
+* [如何打造一个高效适配的 H5](https://isux.tencent.com/how-to-make-webpage-fit-screen.html)
+* [Android WebView 在开发过程中有哪些坑](https://www.zhihu.com/question/31316646)
+
+## 高效开发篇
+
+### Mac 
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [Mac 使用指南](http://www.jianshu.com/p/343a4ee97a19)
 * [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac#%E5%8A%9F%E8%83%BD%E9%94%AE)
 * [用心整理的 Mac 上好用好玩的软件们，持续更新中](http://www.jianshu.com/p/b304515d225b)
+
+### 图片预处理
+* [TinyPng](https://tinypng.com/)([Mac 客户端](https://github.com/kyleduo/TinyPNG4Mac)): 图片压缩。
+* [智图](http://zhitu.isux.us/): 腾讯出品的图片压缩工具,有 Windows 和 Mac 客户端。
+* [GIF 在线制作](http://gifcreator.me/)
+* [阿里巴巴矢量图标库](http://www.iconfont.cn/)
+* [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/): 图标制作
+* [android-material-icon-generator](https://android-material-icon-generator.bitdroid.de/): MD 图标制作
+
+### 其它工具、资源
+* [Android 开发工具汇总](http://androidblog.cn/tools/)
+* [Android dev tools](http://www.androiddevtools.cn/): 很全的 Android 开发资源工具下载 
+* [GitHub 图标生成](http://shields.io/)
+* [GIF 制作](http://ezgif.com/)
+* [国内值得关注的API集合](http://www.jianshu.com/p/ecf037476603)
+
 
 
