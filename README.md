@@ -2,17 +2,20 @@
 ## 框架/架构篇
 * [Android干货框架集锦，搭建项目必不可少](http://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651434361&idx=1&sn=b19426a123dd9dd14b89f451a158a2a7&chksm=f1288402c65f0d14c838bb5913aaa7fb6cc128a509c4f2e92c76699a8c7863836d5d7b194c8c&mpshare=1&scene=1&srcid=1228WQF5SkS5NBGZqrbgibMf#rd)
 * [GitHub Android Libraries Top 100 简介](https://github.com/Freelander/Android_Data/blob/master/Android-Librarys-Top-100.md)
+* [googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)
 
 ## UI 篇
 ### 自定义 View
 * [可能是讲解Android事件分发最好的文章](http://www.jianshu.com/p/2be492c1df96)
-* [ Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
+* [Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
 
 ### 开源库
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 
 ### 控件
 * [RecyclerView 必知必会](http://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
+* [Android Bottom Sheet详解](http://blog.csdn.net/qibin0506/article/details/51002241)
+* [Android 优雅的为RecyclerView添加HeaderView和FooterView](http://blog.csdn.net/lmj623565791/article/details/51854533)
 
 ###  Data Binding
 * [棉花糖给 Android 带来的 Data Bindings（数据绑定库)](https://realm.io/cn/news/data-binding-android-boyar-mount/)
@@ -30,11 +33,14 @@
 * [给初学者的 RxJava2.0 教程(掘金系列教程)](https://gold.xitu.io/user/573dba2171cfe448aa97b7b0)
 
 ## 网络请求篇
+
 ### okhttp
 * [okhttp 项目地址](https://github.com/square/okhttp)
 * [ Android OkHttp完全解析 是时候来了解OkHttp了](http://blog.csdn.net/lmj623565791/article/details/47911083)
 * [如何更高效地使用 OkHttp](http://brucezz.itscoder.com/effective-okhttp)
 * [OkHttp：Java 平台上的新一代 HTTP 客户端](https://www.ibm.com/developerworks/cn/java/j-lo-okhttp/)
+* [一些你可能需要的okhttp实现](http://blog.csdn.net/qq_17766199/article/details/53186874)
+* [Android Retrofit 实现（图文上传）文字（参数）和多张图片一起上传](http://blog.csdn.net/jdsjlzx/article/details/52246114)
 
 ### Retrofit
 * [retrofit 项目地址](https://github.com/square/retrofit)
@@ -43,6 +49,7 @@
 * [Retrofit 用法详解](http://duanyytop.github.io/2016/08/06/Retrofit%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/)
 * [Retrofit分析-漂亮的解耦套路](http://www.jianshu.com/p/45cb536be2f4)
 * [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
+* [Retrofit2 完全解析 探索与okhttp之间的关系](http://blog.csdn.net/lmj623565791/article/details/51304204)
 
 ### Volley
 * [ Android Volley 完全解析](http://blog.csdn.net/guolin_blog/article/details/17482095)(系列文章)
@@ -104,6 +111,7 @@
 * [GitHub 图标生成](http://shields.io/)
 * [GIF 制作](http://ezgif.com/)
 * [国内值得关注的API集合](http://www.jianshu.com/p/ecf037476603)
+* [国内值得关注的 非官方 API集合](http://www.jianshu.com/p/02c723af2944)
 
 
 
