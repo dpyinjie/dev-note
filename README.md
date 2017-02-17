@@ -1,8 +1,16 @@
 
 ## 框架/架构篇
+
+* [Android MVP 架构必要知识：第一部分](https://github.com/xitu/gold-miner/blob/master/TODO/essential-guide-for-designing-your-android-app-architecture-mvp-part.md)
+* [Android MVP 架构必要知识：第二部分](https://github.com/xitu/gold-miner/blob/master/TODO/essential-guide-for-designing-your-android-app-architecture-mvp-part-2.md)
 * [Android干货框架集锦，搭建项目必不可少](http://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651434361&idx=1&sn=b19426a123dd9dd14b89f451a158a2a7&chksm=f1288402c65f0d14c838bb5913aaa7fb6cc128a509c4f2e92c76699a8c7863836d5d7b194c8c&mpshare=1&scene=1&srcid=1228WQF5SkS5NBGZqrbgibMf#rd)
 * [GitHub Android Libraries Top 100 简介](https://github.com/Freelander/Android_Data/blob/master/Android-Librarys-Top-100.md)
 * [googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)
+
+### 示例项目
+* [googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)
+* [MindorksOpenSource/android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture)
+
 
 ## UI 篇
 ### 自定义 View
@@ -31,6 +39,7 @@
 * [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 * [RxJava系列-知乎专栏](https://zhuanlan.zhihu.com/p/20687178)
 * [给初学者的 RxJava2.0 教程(掘金系列教程)](https://gold.xitu.io/user/573dba2171cfe448aa97b7b0)
+* [RxAndroid 中文教程](https://github.com/xitu/gold-miner/blob/master/TODO/rxandroid-tutorial.md)
 
 ## 网络请求篇
 
@@ -45,7 +54,7 @@
 ### Retrofit
 * [retrofit 项目地址](https://github.com/square/retrofit)
 * [深入浅出 Retrofit，这么牛逼的框架你们还不来看看？](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1117)
-* [Future Studio 之 retrofit2 系列教程](https://futurestud.io/tutorials/retrofit-2-basics-of-api-description)
+* [Future Studio 之 retrofit2 系列教程](https://futurestud.io/tutorials/tag/retrofit)
 * [Retrofit 用法详解](http://duanyytop.github.io/2016/08/06/Retrofit%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/)
 * [Retrofit分析-漂亮的解耦套路](http://www.jianshu.com/p/45cb536be2f4)
 * [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
@@ -53,6 +62,9 @@
 
 ### Volley
 * [ Android Volley 完全解析](http://blog.csdn.net/guolin_blog/article/details/17482095)(系列文章)
+
+
+## 
 
 ## Gson 篇
 * [Gson User Guide](https://github.com/google/gson/blob/master/UserGuide.md)
