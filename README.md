@@ -32,8 +32,16 @@
 
 ### 控件
 * [RecyclerView 必知必会](http://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
-* [Android Bottom Sheet详解](http://blog.csdn.net/qibin0506/article/details/51002241)
-* [Android 优雅的为RecyclerView添加HeaderView和FooterView](http://blog.csdn.net/lmj623565791/article/details/51854533)
+* [Android Bottom Sheet 详解](http://blog.csdn.net/qibin0506/article/details/51002241)
+* [Android 优雅的为 RecyclerView 添加 HeaderView 和 FooterView ](http://blog.csdn.net/lmj623565791/article/details/51854533)
+
+### Material Design
+* [最全面的 Material Design 学习资料](https://github.com/Luosunce/material-design-data/blob/master/README.md)
+
+### ConstraintLayout
+* [Build a Responsive UI with ConstraintLayout](https://developer.android.com/training/constraint-layout/index.html)
+* [ConstraintLayout (这到底是什么)](https://github.com/xitu/gold-miner/blob/master/TODO/constraint-layout-hell.md)（[原文地址](http://www.uwanttolearn.com/android/constraint-layout-hell/)）
+* [ConstraintLayout ( 这到底是什么 ) (小贴士及小技巧) 第二部分](https://github.com/xitu/gold-miner/blob/master/TODO/constraint-layout-concepts-hell-tips-tricks-part-2.md)
 
 ###  Data Binding
 * [棉花糖给 Android 带来的 Data Bindings（数据绑定库)](https://realm.io/cn/news/data-binding-android-boyar-mount/)
@@ -110,7 +118,25 @@
 * [如何打造一个高效适配的 H5](https://isux.tencent.com/how-to-make-webpage-fit-screen.html)
 * [Android WebView 在开发过程中有哪些坑](https://www.zhihu.com/question/31316646)
 
+## 博客、文章
+
+### 周报
+* [Open 软件开发小组](https://github.com/OpenDevTeam/OpenBox)
+* [Android 开发技术周报](http://www.androidweekly.cn/)
+* [Android 博客周刊](http://www.androidblog.cn/)
+* [码农周刊](http://weekly.manong.io/)
+
+### 技术博客
+
+### 技术文章
+
 ## 高效开发篇
+
+### Adnroid Studio / Gradle
+* [Android Plugin DSL Reference](http://google.github.io/android-gradle-dsl/current/index.html)
+* [Gradle Plugin User Guide](http://tools.android.com/tech-docs/new-build-system/user-guide)
+* [IntelliJ IDEA Mac OS X Keymap](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard_mac.pdf)
+* [IntelliJ IDEA Default Keymap](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf)
 
 ### Mac 
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
@@ -127,6 +153,7 @@
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/): 图标制作
 * [android-material-icon-generator](https://android-material-icon-generator.bitdroid.de/): MD 图标制作
 
+<<<<<<< HEAD
 
 ## 博客、文章
 
@@ -139,6 +166,8 @@
 ### 技术博客
 * [苹果核](http://pingguohe.net/)
 
+=======
+>>>>>>> origin/master
 ### 其它工具、资源
 * [Android 开发工具汇总](http://androidblog.cn/tools/)
 * [Android dev tools](http://www.androiddevtools.cn/): 很全的 Android 开发资源工具下载 
