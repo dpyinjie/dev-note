@@ -10,14 +10,25 @@
 * [googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)
 * [MindorksOpenSource/android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture)
 
+## 适配
+### 权限适配
+* [Android权限机制与适配经验(QQ音乐技术团队)](http://chuansong.me/n/1602616551616)
+
+### 屏幕适配
+
 
 ## UI 篇
 ### 自定义 View
 * [可能是讲解Android事件分发最好的文章](http://www.jianshu.com/p/2be492c1df96)
 * [Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
 
+### Toast
+* [GrenderG/Toasty](https://github.com/GrenderG/Toasty)
+* [Muddz/StyleableToast](https://github.com/Muddz/StyleableToast)
+
 ### 开源库
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+* [【高端】天猫 Android UI 框架项目Tangram ](http://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651434795&idx=1&sn=fcbed3a22bce615e77b0945b0b54859a&chksm=f1288650c65f0f4612dd770566d961430ff63dfe5b84ccf66393fa0719ceb422955532aab091&mpshare=1&scene=23&srcid=0305EY9GTOCVBaxlKSoaKkIp#rd)
 
 ### 控件
 * [RecyclerView 必知必会](http://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
@@ -124,6 +135,9 @@
 * [Android 开发技术周报](http://www.androidweekly.cn/)
 * [Android 博客周刊](http://www.androidblog.cn/)
 * [码农周刊](http://weekly.manong.io/)
+
+### 技术博客
+* [苹果核](http://pingguohe.net/)
 
 ### 其它工具、资源
 * [Android 开发工具汇总](http://androidblog.cn/tools/)
