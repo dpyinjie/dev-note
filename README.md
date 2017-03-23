@@ -26,12 +26,18 @@
 * [GrenderG/Toasty](https://github.com/GrenderG/Toasty)
 * [Muddz/StyleableToast](https://github.com/Muddz/StyleableToast)
 
+### 通知 (Notification)
+* [Android 通知](https://developer.android.com/guide/topics/ui/notifiers/notifications.html)
+
+### RecyclerView
+* [alibaba/vlayout (针对 RecyclerView 的 LayoutManager 扩展)](https://github.com/alibaba/vlayout)
+* [RecyclerView 必知必会](http://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
+
 ### 开源库
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 * [【高端】天猫 Android UI 框架项目Tangram ](http://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651434795&idx=1&sn=fcbed3a22bce615e77b0945b0b54859a&chksm=f1288650c65f0f4612dd770566d961430ff63dfe5b84ccf66393fa0719ceb422955532aab091&mpshare=1&scene=23&srcid=0305EY9GTOCVBaxlKSoaKkIp#rd)
 
-### 控件
-* [RecyclerView 必知必会](http://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
+### 其它控件
 * [Android Bottom Sheet 详解](http://blog.csdn.net/qibin0506/article/details/51002241)
 * [Android 优雅的为 RecyclerView 添加 HeaderView 和 FooterView ](http://blog.csdn.net/lmj623565791/article/details/51854533)
 
