@@ -159,8 +159,6 @@
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/): 图标制作
 * [android-material-icon-generator](https://android-material-icon-generator.bitdroid.de/): MD 图标制作
 
-<<<<<<< HEAD
-
 ## 博客、文章
 
 ### 周报
@@ -172,8 +170,6 @@
 ### 技术博客
 * [苹果核](http://pingguohe.net/)
 
-=======
->>>>>>> origin/master
 ### 其它工具、资源
 * [Android 开发工具汇总](http://androidblog.cn/tools/)
 * [Android dev tools](http://www.androiddevtools.cn/): 很全的 Android 开发资源工具下载 
